@@ -52,3 +52,6 @@ __negrito__
 if nota>8:
 printf("Aprovado");
 ```
+
+### Visualização 
+Essa eu não sabia
